@@ -1,0 +1,30 @@
+{
+            "chart": {
+                "caption": "Source Code Step Count ",
+                "subCaption": "From Start of Development",
+                "numberprefix": "",
+                "theme": "fint"
+            },
+            "data": [
+                {
+                    "label": "8/2017",
+                    "value": "1000"
+                },
+                {
+                    "label": "8/2017",
+                    "value": "2400"
+                },
+                {
+                    "label": "9/2017",
+                    "value": "4300"
+                },
+                {
+                    "label": "10/2017",
+                    "value": "5000"
+                },
+                {
+                    "label": "11/2017",
+                    "value": "7500"
+                }
+            ]
+        }
